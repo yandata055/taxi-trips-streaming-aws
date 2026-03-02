@@ -1,3 +1,9 @@
+---
+noteId: "5fece0e0135a11f1a81c43afb284b0e9"
+tags: []
+
+---
+
 ### Taxi Trip Event Attributes
 
 The following table summarizes the attributes of both **start‑trip** and **end‑trip** event records.
