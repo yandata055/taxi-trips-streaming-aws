@@ -3,5 +3,5 @@
 /.cursorignore
 /mydocs
 .DS_Store
-/.claude/
+/.claude
 /.venv
