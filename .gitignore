@@ -1,6 +1,7 @@
-/.notebook/
-/.cursor/
+/.notebook
+/.cursor
 /.cursorignore
-/docs/
 /mydocs
 .DS_Store
+/.claude/
+/.venv
